@@ -1,0 +1,326 @@
+{
+	"dialogs": [
+		{
+			"_id": "064b00e28db2168ee3904c96f2b8c119",
+			"text": "is simply dummy text of the printing and typesetting industry. ",
+			"created_at": "Mon Mar 09 2015 01:42:14 GMT+0000 (UTC)",
+			"user": {
+				"_id": "064b00e28db2168ee3904c96f2b8c119",
+				"fullname": "Christy Suarez",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "8bac38048f319e45bd83800ca19e2c83",
+			"text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+			"created_at": "Sun Apr 19 1992 21:27:21 GMT+0000 (UTC)",
+			"user": {
+				"_id": "8bac38048f319e45bd83800ca19e2c83",
+				"fullname": "Angelica Howard",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "a362c8f1619f37506b857bedfe6ea1d6",
+			"text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+			"created_at": "Tue Jun 07 1983 18:32:02 GMT+0000 (UTC)",
+			"user": {
+				"_id": "a362c8f1619f37506b857bedfe6ea1d6",
+				"fullname": "Witt Willis",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "4cd0e5fb32f936697adf2b6f63f21d49",
+			"text": "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+			"created_at": "Fri Sep 06 1996 02:46:04 GMT+0000 (UTC)",
+			"user": {
+				"_id": "4cd0e5fb32f936697adf2b6f63f21d49",
+				"fullname": "Bennett Church",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "a079730297a15fe5d97a073eaebb2b8d",
+			"text": "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+			"created_at": "Sun Sep 24 2006 19:40:52 GMT+0000 (UTC)",
+			"user": {
+				"_id": "a079730297a15fe5d97a073eaebb2b8d",
+				"fullname": "Edwina Obrien",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "58473b1ba967b54ad8ee86cd4f9368ef",
+			"text": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+			"created_at": "Mon Nov 26 2012 07:04:54 GMT+0000 (UTC)",
+			"user": {
+				"_id": "58473b1ba967b54ad8ee86cd4f9368ef",
+				"fullname": "Delgado Cannon",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "5c575b0f61fa1f71eee60fb96a502ba2",
+			"text": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.",
+			"created_at": "Sat Aug 09 1980 10:04:32 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5c575b0f61fa1f71eee60fb96a502ba2",
+				"fullname": "Sanchez Sharp",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "8b7689840980c098e9ae2302914232af",
+			"text": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+			"created_at": "Fri Sep 22 2017 01:25:27 GMT+0000 (UTC)",
+			"user": {
+				"_id": "8b7689840980c098e9ae2302914232af",
+				"fullname": "Karin Vincent",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "90c259b9f647a92e663da79b62dc6ebd",
+			"text": " Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
+			"created_at": "Sun Dec 03 1989 00:02:25 GMT+0000 (UTC)",
+			"user": {
+				"_id": "90c259b9f647a92e663da79b62dc6ebd",
+				"fullname": "Hawkins Mccray",
+				"avatar": null
+			}
+		},
+		{
+			"_id": "6382d9ddd3ce0761fafbd5657a0f68d3",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"created_at": "Fri Jun 13 2003 04:55:52 GMT+0000 (UTC)",
+			"user": {
+				"_id": "6382d9ddd3ce0761fafbd5657a0f68d3",
+				"fullname": "Constance Tran",
+				"avatar": null
+			}
+		}
+	],
+	"messages": [
+		{
+			"_id": "5ddd9a1030af7e1bc8a8782a",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Thu Mar 11 2010 13:40:19 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a1093eb56874b884c63",
+				"fullname": "Lopez Roman",
+				"avatar": "https://html.com/wp-content/plugins/htmlcodetutorial-plugin/assets/images/firefox-true.png"
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a105431ac142a38aa91",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Thu Dec 10 2009 14:06:19 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10bac97d8f18a01760",
+				"fullname": "Wells Smith",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a106099d8f4c5f3ea00",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Wed Dec 16 1981 10:04:03 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a106bffb42d2e3e7d96",
+				"fullname": "Sherry Dawson",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a1071162633505d526f",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sat Feb 21 1981 17:24:40 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a102c8bc8f8b5aa669f",
+				"fullname": "Bowen Day",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a1007a1e0097fc3736e",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sun Dec 28 1986 06:00:13 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10e3d5b1a56aac0f39",
+				"fullname": "Kirkland Edwards",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a1039dcad489fe43715",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sun Oct 12 2008 18:17:56 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a1053b6ce493082b9fc",
+				"fullname": "Bridges Shaffer",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a103531fddf8c622089",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sat Sep 12 1981 13:31:59 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a1063adfb27b00fb67f",
+				"fullname": "Bartlett Sherman",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10aa07c1e25db4a18f",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Tue Feb 16 2016 02:55:43 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10e0eb00733cd04ef3",
+				"fullname": "Evangeline Sutton",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10769d97a08fd2d466",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Wed Feb 18 1981 09:59:32 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a1095c020068d4e59b5",
+				"fullname": "Potter Gamble",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10a60a28517e430ab0",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sun Mar 08 2015 19:30:52 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10782422eeddafd4a0",
+				"fullname": "Thelma Norris",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10cf8ce563a980799d",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sat Nov 02 1996 04:58:14 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10e0c180a74e92732c",
+				"fullname": "Leslie Mclaughlin",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10a8ffc1b974943847",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sat Apr 26 1986 04:05:06 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10cc634f38320b0611",
+				"fullname": "Neal Griffin",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10fc1199b847ea1dab",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sat Nov 27 2010 11:11:08 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10f231d9fec6a48e1c",
+				"fullname": "Terrie Irwin",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10f78dc191962e607b",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Tue Feb 20 2007 15:20:25 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a104ca8924387297709",
+				"fullname": "Nancy Briggs",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10bdcea3ac2efe8b69",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Mon Dec 22 1980 23:21:06 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a109b4adbd6d9b2a6c6",
+				"fullname": "Gretchen Harvey",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a103422ac1d44bc6afe",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Fri Jul 27 1990 01:37:19 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10ea50625ad282fd25",
+				"fullname": "Saunders Travis",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10160dc59004adceec",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Tue Dec 04 1984 13:42:46 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10279f54511880f92b",
+				"fullname": "Ortega Glover",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a10a38fd4dd55939ce7",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Fri Nov 08 1974 21:00:14 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a100b9009432600c7f9",
+				"fullname": "Vera Hale",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a105f67238f32c16665",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Sun Sep 21 2008 06:03:16 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10d6092e4be3c7244e",
+				"fullname": "Penelope Crosby",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		},
+		{
+			"_id": "5ddd9a103d592e3d193a46bd",
+			"text": "<TypeError: loremIpsum is not a function>",
+			"created_at": "Wed Sep 02 1987 06:05:50 GMT+0000 (UTC)",
+			"user": {
+				"_id": "5ddd9a10cbd7b7e3ecee7f12",
+				"fullname": "Naomi Dillon",
+				"avatar": null
+			},
+			"dialog": "064b00e28db2168ee3904c96f2b8c119"
+		}
+	]
+}
